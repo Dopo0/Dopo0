@@ -1,4 +1,5 @@
-##🎓 AI Enthusiast with a Diploma in Artificial Intelligence
+<h1 align="center">Hi 👋, I'm Daniel Ochoa</h1>
+<h3 align="center"> 🎓 AI Enthusiast with a Diploma in Artificial Intelligence</h3>
 
 I'm passionate about harnessing the power of AI to solve real-world problems. My journey has equipped me with a diverse set of skills, including:
 
@@ -7,17 +8,13 @@ Machine Learning: Artificial Neural Networks, Machine Learning, Deep Learning, C
 Advanced AI: CNN, RNN, GAN, NLP, PyTorch, TensorFlow, Sklearn, CUDA
 DevOps & Cloud: AWS, Docker
 
-
-##🌟 Notable Projects:
+<h3 align="left">🌟 Notable Projects:</h3>
 
 NLP Analysis: Created models that understand and interpret human language for sentiment analysis and more.
 Tabular Data Analysis: Transformed raw data into actionable insights through data cleaning, feature engineering, and predictive modeling.
 Computer Vision: Built cutting-edge face recognition systems using advanced deep learning techniques.
 
 🚀 I'm always excited to collaborate on innovative projects and push the boundaries of what's possible with AI.
-
-<h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">AI Enthusiast with a Diploma in Artificial Intelligence</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dopo0&label=Profile%20views&color=0e75b6&style=flat" alt="dopo0" /> </p>
 
