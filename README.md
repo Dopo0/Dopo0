@@ -24,6 +24,7 @@ Computer Vision: Built cutting-edge face recognition systems using advanced deep
 <p align="left">
 <a href="https://linkedin.com/in/daniel-ochoa-palacio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel-ochoa-palacio" height="30" width="40" /></a>
 <a href="mailto:ochoapalaciodaniel@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Email_OneDrive_icon.svg" alt="email" height="30" width="40" /></a>
+<a href="mailto:ochoapalaciodaniel@gmail.com" target="blank">ochoapalaciodaniel@gmail.com</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
